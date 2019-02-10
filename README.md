@@ -28,7 +28,7 @@ JSP를 사용하여 만든 중고상품 거래 사이트 UPIS (Used Products Int
 </div>
 <br><br><br>
 
-###  상세 화면
+### 상품 정보 화면
 <div>
   <div width='100%'>
     <img src='./screenshots/screenshot6.jpg' width='80%' height='590'>
