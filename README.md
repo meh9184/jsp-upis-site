@@ -19,7 +19,7 @@ JSP를 사용하여 만든 중고상품 거래 사이트 UPIS (Used Products Int
 </div>
 <br><br><br>
 
-### 댓글 / 주문 기능
+### 게시판 화면 / 장바구니 화면
 <div>
   <div width='100%'>
     <img src='./screenshots/screenshot3.jpg' width='45%' height='350'>
@@ -28,7 +28,7 @@ JSP를 사용하여 만든 중고상품 거래 사이트 UPIS (Used Products Int
 </div>
 <br><br><br>
 
-### 제품 상세 화면
+###  상세 화면
 <div>
   <div width='100%'>
     <img src='./screenshots/screenshot6.jpg' width='80%' height='590'>
