@@ -2,7 +2,8 @@
 JSP를 사용하여 만든 중고상품 거래 사이트 UPIS (Used Products Interchange Site)
 <br><br><br>
 
-## 메인 화면 / 쇼핑몰 화면
+### 메인 화면 / 쇼핑몰 화면
+<hr>
 <div>
   <div width='100%'>
     <img src='./screenshots/screenshot1.jpg' width='45%' height='350'>
